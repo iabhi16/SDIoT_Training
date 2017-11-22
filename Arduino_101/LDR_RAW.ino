@@ -1,4 +1,4 @@
-/*  Arduino program 7 to Read value of LDR input and Print on Serial Monitor
+/*  Arduino program 7 to Read value of Potentiometer input and Print on Serial Monitor
  *  Date: 19th Nov 17 
  *  @BML Munjal University, Arduino 101 Workshop
  */
